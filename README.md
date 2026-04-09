@@ -81,6 +81,3 @@ Only valid account numbers allow transactions. Errors are shown for invalid acco
 Rafia Rubab
 Internship Project at CodeAlpha
 
-
-Rafia Rubab
-Internship Project at CodeAlpha
