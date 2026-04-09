@@ -79,5 +79,6 @@ Only valid account numbers allow transactions. Errors are shown for invalid acco
 
 ## Author
 Rafia Rubab
+
 Internship Project at CodeAlpha
 
