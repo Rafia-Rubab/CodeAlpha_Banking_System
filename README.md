@@ -68,10 +68,10 @@ Enter Account Number: 5001
 Account Created Successfully!
 
 ## Technologies Used
-C++ (OOP concepts)
-File Handling (fstream) for persistent storage
-Console I/O
-Dev C++ compatible
+C++ (OOP concepts),
+File Handling (fstream) for persistent storage,
+Console I/O,
+Dev C++ compatible.
 
 ## Notes
 Ensure the text files (customers.txt, accounts.txt, transactions.txt) are in the same folder as the executable for data persistence.
